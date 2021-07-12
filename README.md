@@ -1,6 +1,6 @@
-#Projecto puesto de Feria
+# Projecto puesto de Feria
 
-###Desafío 2 -Aplicación Web Puesto de Feria
+### Desafío 2 -Aplicación Web Puesto de Feria
 
 ### `yarn start`
 
