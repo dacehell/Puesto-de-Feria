@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Manzana",
+    "price": 300,
+    "stock": 10
+  },
+  {
+    "name": "Pera",
+    "price": 450,
+    "stock": 1
+  },
+  {
+    "name": "Banana",
+    "price": 800,
+    "stock": 5
+  },
+  {
+    "name": "Frutilla",
+    "price": 1000,
+    "stock": 30
+  },
+  {
+    "name": "Maracuya",
+    "price": 2000,
+    "stock": 0
+  },
+  {
+    "name": "Kiwi",
+    "price": 1200,
+    "stock": 1
+  },
+  {
+    "name": "Naranja",
+    "price": 300,
+    "stock": 40
+  },
+  {
+    "name": "Mandarina",
+    "price": 100,
+    "stock": 10
+  }
+]
